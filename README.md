@@ -13,10 +13,10 @@ npm install -g typescript
 ```
 
 ### Clone the repository
-To easily set up the application, clone this repository which contains directory for both sections of the project ( i.e `blog-backend` and `blog-frontend`)
+To easily set up the application, clone this repository which contains directory for both sections of the project ( i.e `backend` and `frontend`)
 
 ```bash
-git clone https://github.com/yemiwebby/nest-react-project.git
+https://github.com/Wesley37/react-blog.git
 ```
 
 ## Change directory into the newly cloned project
@@ -27,7 +27,7 @@ cd nest-react-project
 ## Backend
 ### Change directory into the backend
 ```bash
-cd blog-backend
+cd backend
 ```
 
 ### Install backend dependencies
@@ -77,7 +77,7 @@ Open another terminal from the `nest-react-project` and navigate to the `blog-fr
 
 ### Frontend dependencies
 ```bash
-cd blog-frontend
+cd frontend
 npm install
 ```
 
