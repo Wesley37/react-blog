@@ -1,1 +1,1 @@
-#Modern Full-Stack Development with Nest.js, React, TypeScript, and MongoDB
+Modern Full-Stack Development with Nest.js, React, TypeScript, and MongoDB
